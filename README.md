@@ -28,8 +28,4 @@ This project is a **Sentiment Analysis** system for Reuters news articles using 
 - **MongoDB**
 - **Git**
 
-### **Run Instructions**
-1. **Clone the Repository**
-   ```sh
-   git clone https://git.cs.dal.ca/himanshi/csci5408_w24_b00976966_himanshi_verma.git
-   cd Assignment2/Problem3
+
